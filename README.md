@@ -1,5 +1,6 @@
 # Career Track Analysis
 SQL + Tableau Project
+
 **1. Overview**
 This project analyzes student enrollments and completion behavior across various career tracks using SQL for data extraction and Tableau for visualization. It focuses on the time taken by students to complete tracks and patterns of enrollment over months.
 
